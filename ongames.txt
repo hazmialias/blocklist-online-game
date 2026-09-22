@@ -72,3 +72,177 @@
 ! --- Among Us (Innersloth) ---
 ||innersloth.com^
 ||amongusplay.online^
+
+! ==============================================================================
+! DATING & SOCIAL APPS (ACTIVE TOGGLES)
+! ==============================================================================
+! Plenty of Fish
+||pof.com^
+! Tinder
+||tinder.com^
+||gotinder.com^
+||tindersparks.com^
+! Wizz
+||wizzapp.com^
+
+! ==============================================================================
+! GAMBLING & BETTING (ACTIVE TOGGLES)
+! ==============================================================================
+! Betano
+||betano.com^
+||betano.de^
+||betano.pt^
+||betano.ro^
+! Betfair
+||betfair.com^
+||betfair.it^
+||betfair.es^
+! Betway
+||betway.com^
+||betway.co.za^
+||betway.de^
+! Blaze
+||blaze.com^
+
+! ==============================================================================
+! GAMING & PLATFORMS (ACTIVE TOGGLES)
+! ==============================================================================
+! Activision Blizzard & Battle.net & Blizzard
+||activision.com^
+||battle.net^
+||blizzard.com^
+||blz-contentstack.com^
+||bnetcmsus-a.akamaihd.net^
+! Electronic Arts & Origin
+||ea.com^
+||origin.com^
+||electronicarts.com^
+! Epic Games
+||epicgames.com^
+||unrealengine.com^
+! GOG
+||gog.com^
+||gog-statics.com^
+! IO Interactive
+||ioi.dk^
+||hitman.com^
+! League of Legends & Riot Games & Valorant
+||leagueoflegends.com^
+||riotgames.com^
+||playvalorant.com^
+||pvp.net^
+||riotcdn.net^
+! Minecraft
+||minecraft.net^
+||mojang.com^
+! Nintendo
+||nintendo.com^
+||nintendo.net^
+||nintendo.co.jp^
+! PlayStation
+||playstation.com^
+||playstation.net^
+||sonyentertainmentnetwork.com^
+! Roblox
+||roblox.com^
+||rbxcdn.com^
+! Rockstar Games
+||rockstargames.com^
+||rockstargames.edgesuite.net^
+! Steam
+||steampowered.com^
+||steamcommunity.com^
+||steamstatic.com^
+! Ubisoft
+||ubisoft.com^
+||uplay.com^
+! Wargaming
+||wargaming.net^
+||worldoftanks.com^
+||worldofwarships.com^
+! Warner Bros. Games
+||wbgames.com^
+||warnerbrosgames.com^
+! Xbox Live
+||xbox.com^
+||xboxlive.com^
+
+! ==============================================================================
+! SOCIAL NETWORKS (ACTIVE TOGGLES)
+! ==============================================================================
+! 4chan
+||4chan.org^
+||4channel.org^
+! 500px
+||500px.com^
+! 9GAG
+||9gag.com^
+! Amino
+||aminoapps.com^
+! Bluesky
+||bsky.app^
+||bsky.social^
+! Clubhouse
+||joinclubhouse.com^
+||clubhouse.com^
+! Discord
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discordapp.net^
+! Douban
+||douban.com^
+||doubanio.com^
+! KOOK
+||kookapp.cn^
+||kaiheila.cn^
+! Mail.ru
+||mail.ru^
+! Mastodon
+||mastodon.social^
+||joinmastodon.org^
+! Odysee
+||odysee.com^
+||lbry.tv^
+! OK.ru
+||ok.ru^
+! OnlyFans
+||onlyfans.com^
+! Snapchat
+||snapchat.com^
+||sc-cdn.net^
+! Tumblr
+||tumblr.com^
+! X (formerly Twitter)
+||x.com^
+||twitter.com^
+||twimg.com^
+||t.co^
+! VK.com
+||vk.com^
+||userapi.com^
+
+! ==============================================================================
+! REQUESTED EXTRA STREAMING & BROADCASTING SERVICES
+! ==============================================================================
+! Bigo Live
+||bigo.tv^
+||bigolive.com^
+||bigo.sg^
+! Twitch
+||twitch.tv^
+||ttvnw.net^
+||jtvnw.net^
+||twitchcdn.net^
+! Netflix
+||netflix.com^
+||netflix.net^
+||nflxext.com^
+||nflximg.net^
+||nflxvideo.net^
+||nflxso.net^
+! Disney+
+||disneyplus.com^
+||disney-plus.net^
+||dssott.com^
+||bamgrid.com^
