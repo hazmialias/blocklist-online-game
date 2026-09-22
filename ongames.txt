@@ -1,0 +1,74 @@
+! ==============================================================================
+! POPULAR MULTIPLAYER MOBILE GAMES BLOCKLIST FOR ADGUARD
+! ==============================================================================
+
+! --- Mobile Legends: Bang Bang (MLBB) ---
+||mobilelegends.com^
+||moonton.com^
+||youngjoygame.com^
+||akmweb.youngjoygame.com^
+||akmcdn.ml.youngjoygame.com^
+||sc-moonton.com^
+
+! --- PUBG Mobile / Level Infinite / Krafton ---
+||pubgmobile.com^
+||pubg.com^
+||proximabeta.com^
+||igamebuy.com^
+||gpubgm.com^
+||krafton.com^
+||levelinfinite.com^
+
+! --- Free Fire (Garena) ---
+||freefiremobile.com^
+||garena.com^
+||garena.co.id^
+||garena.my^
+||garena.sg^
+||ff.garena.com^
+||dl.dir.freefiremobile.com^
+
+! --- Call of Duty: Mobile & Warzone Mobile (Activision) ---
+||callofduty.com^
+||activision.com^
+||demonware.net^
+||codm.garena.com^
+
+! --- Roblox ---
+||roblox.com^
+||rbxcdn.com^
+||robloxlabs.com^
+
+! --- Supercell (Brawl Stars, Clash of Clans, Clash Royale) ---
+||supercell.com^
+||supercell.net^
+||brawlstarsgame.com^
+||clashofclans.com^
+||clashroyale.com^
+||sentry.supercell.com^
+
+! --- Riot Games (League of Legends: Wild Rift, TFT, Valorant Mobile) ---
+||riotgames.com^
+||wildrift.leagueoflegends.com^
+||pvp.net^
+||riotcdn.net^
+
+! --- Genshin Impact & Honkai: Star Rail (HoYoverse / Cognosphere) ---
+||hoyoverse.com^
+||mihoyo.com^
+||hoyolab.com^
+||yuanshen.com^
+||starrails.com^
+
+! --- Honor of Kings (Tencent / Level Infinite) ---
+||honorofkings.com^
+||hok.qq.com^
+||pvp.qq.com^
+
+! --- Pokémon UNITE (The Pokémon Company / TiMi) ---
+||pokemonunite.com^
+||pokemon.com^
+
+! --- Among Us (Innersloth) ---
+||innersloth.com^
+||amongusplay.online^
